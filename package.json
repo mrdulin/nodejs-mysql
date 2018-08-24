@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdulin/nodejs-mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdulin/nodejs-mysql/issues"
+  },
+  "homepage": "https://github.com/mrdulin/nodejs-mysql#readme",
+  "devDependencies": {
+    "@types/mysql": "^2.15.5",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "winston": "^3.0.0"
+  }
+}
